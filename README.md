@@ -1,6 +1,10 @@
 # CVoiceConverter
 convert voice to string.
 
+```
+v 1.0.0
+```
+
 
 
 ## Installation
